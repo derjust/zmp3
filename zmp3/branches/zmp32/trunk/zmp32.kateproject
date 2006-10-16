@@ -1,0 +1,7 @@
+[Project Dir]
+Dirs=
+Files=ClientSocket.cpp/ClientSocket.h/id3label.cpp/id3label.h/lcd.cpp/lcd.h/main.cpp/Socket.cpp/SocketException.h/Socket.h/musicplay.cpp/musicplay.h/listen.cpp/listen.h/aktionen.cpp/aktionen.h/dateioperationen.cpp/dateioperationen.h/Makefile/menu.cpp/menu.h
+
+[Project File]
+Name=zmp32
+Type=Default
